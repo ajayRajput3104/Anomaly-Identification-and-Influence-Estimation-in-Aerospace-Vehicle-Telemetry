@@ -35,8 +35,8 @@ Interactive dashboards with Plotly (zoom, tooltips, timeline slider).
 
 -Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/aerospace-anomaly-detection.git
-cd aerospace-anomaly-detection
+git clone https://github.com/ajayRajput3104/Anomaly-Identification-and-Influence-Estimation-in-Aerospace-Vehicle-Telemetry.git
+cd Anomaly-Identification-and-Influence-Estimation-in-Aerospace-Vehicle-Telemetry
 ```
 
 -Install dependencies:
