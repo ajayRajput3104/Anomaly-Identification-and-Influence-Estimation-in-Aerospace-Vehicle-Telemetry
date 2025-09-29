@@ -1,0 +1,9 @@
+tk
+tkhtmlview
+pandas
+numpy
+matplotlib
+scikit-learn
+fpdf
+plotly
+
