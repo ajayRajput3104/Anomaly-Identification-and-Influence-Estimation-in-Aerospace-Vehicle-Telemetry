@@ -22,6 +22,7 @@ Interactive dashboards with Plotly (zoom, tooltips, timeline slider).
 -Reset and re-run analysis seamlessly within the GUI.
 
 ## 📂 Project Structure
+```
 .
 ├── Batch2.py              # Main application (Tkinter GUI + ML logic)
 ├── requirements.txt       # Python dependencies
@@ -29,7 +30,7 @@ Interactive dashboards with Plotly (zoom, tooltips, timeline slider).
 └── (generated outputs)
     ├── reports/           # HTML / PDF reports
     └── plots/             # Saved static plots
-
+```
 ## 📦 Installation
 
 -Clone the repository:
