@@ -2,25 +2,29 @@
 
 A desktop-based Python application designed to detect anomalies in aerospace telemetry data and analyze feature contributions to these anomalies.
 The tool combines machine learning, data visualization, and automated reporting into a user-friendly interface for engineers and analysts.
----
+--- 
 ## 🔎 Overview
--Anomaly Detection: Identifies outliers in telemetry data using a Gradient Boosting Regressor and Mean Squared Error (MSE).
-Feature Contribution Analysis: Determines which features contributed most to each anomaly.
--Visualization:
-Static plots with Matplotlib.
-Interactive dashboards with Plotly (zoom, tooltips, timeline slider).
--Automated Reporting: Generates structured HTML/PDF reports with plots and tables.
--GUI Application: Built with Tkinter for easy dataset selection, parameter tuning, and one-click analysis.
+- Anomaly Detection: Identifies outliers in telemetry data using a Gradient Boosting Regressor and Mean Squared Error (MSE).
+- Feature Contribution Analysis: Determines which features contributed most to each anomaly.
+- Visualization:
+  - Static plots with Matplotlib.
+  - Interactive dashboards with Plotly (zoom, tooltips, timeline slider).
+- Automated Reporting: Generates structured HTML/PDF reports with plots and tables.
+- GUI Application: Built with Tkinter for easy dataset selection, parameter tuning, and one-click analysis.
+  
 ---
-# 🛠 Features
--Load multiple training files and one test file.
--Train predictive models with Gradient Boosting.
--Detect and group anomalies with threshold-based outlier analysis.
--Visualize results with actual vs predicted plots, outlier plots, and pie charts.
--Explore results interactively in a browser-based dashboard.
--Export final analysis into comprehensive HTML/PDF reports.
--Reset and re-run analysis seamlessly within the GUI.
+
+## 🛠 Features
+- Load multiple training files and one test file.
+- Train predictive models with Gradient Boosting.
+- Detect and group anomalies with threshold-based outlier analysis.
+- Visualize results with actual vs predicted plots, outlier plots, and pie charts.
+- Explore results interactively in a browser-based dashboard.
+- Export final analysis into comprehensive HTML/PDF reports.
+- Reset and re-run analysis seamlessly within the GUI.
+  
 ---
+
 ## 📂 Project Structure
 ```
 .
